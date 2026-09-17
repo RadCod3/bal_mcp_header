@@ -1,2 +1,2 @@
 
-final McpToolKit aiMcpbasetoolkit = check new ("https://localhost:8080/mcp");
+final McpToolKit aiMcpbasetoolkit = check new ("http://localhost:8080/mcp");
