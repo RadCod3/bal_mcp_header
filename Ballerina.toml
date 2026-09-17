@@ -1,0 +1,3 @@
+[workspace]
+title = "bal-mcp-header"
+packages = ["mcp_server", "math_agent"]
